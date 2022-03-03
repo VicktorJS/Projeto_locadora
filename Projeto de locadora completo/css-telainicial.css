@@ -1,0 +1,31 @@
+#obmenu{
+    width: 100%;
+    margin: 0px;
+    padding: 0px;
+}
+
+#rol01{
+    width: 70%;
+    right: 100px;
+}
+
+#rol02{
+    width: 70%;
+    right: 100px;
+}
+
+body{
+    background: #333;
+}
+
+h1{
+    font-family: "Open Sans",sans-serif;
+    color: #fff;
+    min-height: 100px;
+    margin-top: 30%;
+    padding-left: 30px;
+}
+
+hr{
+    border-width: 2px;
+}
